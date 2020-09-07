@@ -1,0 +1,57 @@
+Syntactic Theory pages 21-29 
+
+[page 21]
+1. The authors claim 3 objectives for chapter 2. What are they? 
+ ---> Notice that we are concerned mainly with objective #1.
+
+[pages 22-23 2.2.1]
+2. State briefly in your own words their argument for the claim that there are infinitely many sentences in English(and all other known human languages for that matter).
+They give this argument in the paragraph right after example sentences (1)
+3. In (2) they present an Impossible (and very annoying) Language. The words in that language are the English words: 'some', 'sentences', 'go', 'on', 'and'. But
+the rule is quite absurd. What is that rule? (the state it on page 23)
+4. Let's see if you really understand the hypothetical language. Would sentences (i) - (iv) be grammatical nor ungrammatical? Use the asterisk to mark the ungrammatical sentences.
+ (i)   Some sentences go on.
+ (ii)  Sentences some go on.
+ (iii) Some sentences go on and on and on and on and on and on
+ (iv)  Sentences some go on and on and on and on and on and on
+ 
+5. If a theory of syntax (i.e., a grammar) were just lists of sentences (and sentences just lists of words with no constituent structure) 
+would it be able to explain why sentences of real human languages never behave like those of the Hypothetical language?
+
+[pages 23-24]
+6. Having rejected that grammars can be lists of sentences, section 2.2.2 tries a new strategy. What do they propose a grammar consists of in that new strategy?
+7. What would the description for 'The cat is on the mat' look like using that strategy?
+To deal with limitations of the new strategy they include some new elements in the grammar amongst them, the kleene star. What limitation of the new 
+strategy does the kleene star overcome?
+8. What do the kleene star and the kleene plus indicate? Why is it important to indicate that sort of thing in a theory of grammar?
+9. What does the vertical bar indicate?
+
+[page 25]
+Around example (9) on page 25 they state an argument that shows that with the new strategy (now called regular expressions, but we could also just call it 
+patterns of grammatical categories) the grammar would be very, very repetitive and complicated. But then they go on to a more crucial problem. 
+10. To understand that crucial problem, let's start by doing a constituent analysis of these sentences:
+ (v)   We watched the movie with Cher.
+ (vi)  I saw the astronomer with the telescope.
+ (vii) I shot an elephant in my pajamas.
+-------------------------
+To do the constituent analysis use the tests you saw in last weeks video. Remember that as the text points out each sentence has two possible interpretations. 
+So there should be 2 analyses for each. 
+For example for one analysis the test results are:
+ - Who watched the movie? [We] did. 
+ - What did we watch? ---> [the movie]
+ - We watched [it] with Cher (substitution of 'the movie' with 'it')
+ - Who did we watch the movie with? - [With Cher]
+ - It was [the movie] that we watched with Cher.
+ - It was [with Cher] that we watched the movie
+... the constituents are [ [We] [watched [the movie][with Cher]] ]
+
+On another analysis the constituents are:
+ - What did we watch? --> [the movie with Cher]
+ - We watched it (substitution of 'the movie with Cher')
+ - It was [the movie with Cher] that we watched.
+... the constituents are [ [We] [watched [the movie with Cher]] ]
+
+Now continue for clauses vi and vii (you don't need to perform as many tests as I did, 2 will do).
+---------------------------
+[pages 26-29]
+read carefully, especially page 27 where they explain in detail how the grammar works and how it is related to the tree and do exercise 1 on page 29.
