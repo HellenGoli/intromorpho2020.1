@@ -1,0 +1,77 @@
+https://www.youtube.com/watch?v=bvc9erKrLUQ&list=PLNRhI4Cc_QmvBzEBJFiOUfmMR4ew9TFwO&index=2
+
+1. What is a (linguistic) constituent? [00:00 - 01:00]
+
+
+2. Complete the statement to form the first hypothesis for a rule which describes how to form a polar question from a statement:
+   (H1) Take the ..... ....... word  and ..... it.
+
+
+
+3. What would be some other words that could take the place of 'is'?
+	WTF!! I know all of you speak English really really really well so why did so many people say that DO can take the place of 'is' here????
+
+	Mary is tall ---> Is Mary tall? 
+	Mary does yoga ---> *Does M yoga?
+	Mary seems intelligent ---> *Seems M intelligent?
+
+		NOTICE that 'does M do yoga?' involves MORE THAN JUST FRONTING THE VERB!!!!
+
+
+		Ok I will stop freaking out now.
+
+
+4. Not only that but it seems to be the case that children never entertain that as a possible rule for forming yes/no questions in English.
+
+
+
+5. Complete the statement to form the second hypothesis for a rule which describes how to form a polar question from a statement:
+   (H2) Take the ..... ....... word .... the ......  and ..... it.
+   	- many people said TAKE THE FIRST AUXILIARY AFTER A GROUP OF WORDS AND FRONT IT.
+     	  ok, not wrong. But 
+	  TAKE THE FIRST AUXILIARY AFTER THE SUBJECT AND FRONT IT.
+	  is more precise!
+
+6. How does one decide if which hypothesis (H1 or H2) is more apt to describe how polar questions are formed?
+	The simplest most direct answer to this question is:
+	choose the hypothesis which explains the behaviour of the largest number of (types of) sentences (in the simplest, most succint manner possible)
+
+
+7. Can a constituent be formed by a single word?
+
+https://www.youtube.com/watch?v=mO4WQB1BIq0&list=PLNRhI4Cc_QmvBzEBJFiOUfmMR4ew9TFwO&index=3
+1. What is the property of recursion?
+recursion is the property constituents that allows them to contain other constituents of the same type. 
+
+
+
+2. How is it important for forming sentences?
+
+
+
+3. By what she says, do grammar rules impose a maximum limit to the size of sentences?  NO!
+
+
+
+4. So, does grammatical theory have an explanation for why there are no infinite sentences? NO!
+
+
+
+5. Where does the explanation for that fact come from? FROM HUMAN LIMITATIONS: finite breath, finite memory, finite patience, finite lives.
+
+
+
+6. The Flea in the dog in the car. Analyze this using the box model at 5:03. 
+
+	we want constituents of type X containing other constituents of type X so the best description is:
+		
+		[The flea [ in [the dog [in [ the car ] ] ] ] ]
+	
+	this is possible too but does not have a PP inside a PP
+		[The flea [in [the dog]] [in [the car]] ]
+
+
+
+7. Can you produce an example phrase or sentence that shows recursion at work in Portuguese?
+
+

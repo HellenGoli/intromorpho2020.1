@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=kWCUC4bpaYs&list=PLNRhI4Cc_QmvBzEBJFiOUfmMR4ew9TFwO&index=5
+1. "The sequence of words which can be moved around in the sentence..." Complete the sentence [starts at around 01:40]
+2. In the sentence 'Mary read that interesting book in the park', find the noun phrase constituent. Use the displacement test.
+
+	that interesting book, Mary read in the park
+w
+3. Notice: in displacement of verb phrases only the non-finite part is displaced. What are non-finite forms of the verbs bring, eat, ring, play? 
+Go to SIEG pg. 36 to answer this question.
+
+	non finites are infinitive, participle and gerund
+		so 
+			bring, brought, bringing
+			eat, eaten, eating
+			etc
+
+
+
+4. She uses tests to show what sequences of words are constituents but notice that there is something else that constituency testing does for you. It shows which
+sequences of words are NOT constituents. So they can help you understand why an analysis is wrong. For example, show that the bracketed sequences are NOT constituents 
+by showing that it fails most tests:
+	In a 3 cases the fronting test will show that the bracketed groups of words in the 3 sentences ARE NOT CONSTITUENTS
+
+	- Beatrice will read [a thousand] novels.
+	*[a thousand], B will read novels.
+
+	- She went to the [city in that] year.
+	*[city in that], she went to the year
+
+	- Mary is [incredibly] tall.
+	*incredibly, M. is tall 
+	Notice that there is a grammatical interpretation for 'incredibly, Mary is tall'
+	but it means the same as 'The fact that M is tall is incredible' which cleary 
+	does not correspond to the original sentence. 
+	But if you are not satisfied with that we can perform another test:
+	
+	What is Mary? - *[incredibly]
+
+https://www.youtube.com/watch?v=5tvWzbM7smE&list=PLNRhI4Cc_QmvBzEBJFiOUfmMR4ew9TFwO&index=6
+1. Use the it-cleft test to find the constituents in:
+- An infected couple at a wedding caused an outbreak of covid-19.
+2. For which type of phrases does she mention limitations of the it-cleft test in English? 
