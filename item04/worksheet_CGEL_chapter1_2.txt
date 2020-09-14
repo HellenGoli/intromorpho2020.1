@@ -1,0 +1,36 @@
+Read pages 20 - 26 and do the exercises
+
+1. Glossary: write definition for these terms:
+- constituent: 
+- constituent structure: 
+- immediate constituents:  
+- ultimate constituents: 
+
+- syntactic categories: 
+- lexical categories: 
+- phrasal categories: 
+
+- grammatical functions:  
+- head: 
+- dependent: 
+- complement: 
+- modifier: 
+- determiner: 
+
+2. What are the different head-dependent relations?
+
+3. How are coordinates and supplements different from constituents where there is a head-dependent relation between the elements?
+
+4. Find the constituents. For each immediate constituent of the clause and of the VP, use constituency tests you learned in item02.
+   Draw the trees using the categories and functions and theory described in the reading (include labels for functions as in example (10)
+   on page 25!!)
+
+i. Sentences have parts.
+ii. The parts of sentences belong to a range of types.
+iii. The parts have roles within the larger part.
+iv. She saw something in there.
+v. That case of dedication to duty impressed Mary.
+vi. A storm damaged the roof of their house.
+
+5. For each clause in 4, find a group of words which is NOT a constituent and give evidence that it is not a constituent using
+at least 2 constituency tests.
